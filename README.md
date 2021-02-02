@@ -13,9 +13,9 @@
     1. Click `+` under `Apple IDs` list
     1. Choose `Apple ID`
     1. Login to your account
-1. Download a "Apple Development certificate" for your user
+    1. Download a "Apple Development certificate" for your user
 
-	1. Continue from previous step, right after logging into your Developer account in Xcode
+    1. Continue from previous step, right after logging into your Developer account in Xcode
     1. Select `Manage Certificates`
     1. Click `+` in the lower left corner
     1. Select `Apple Development`
@@ -23,6 +23,7 @@
 
     1. install brew
     1. install various needed packages(jq, graphicsmagick, zeromq, protobuf, yasm pkg-config, carthage, automake, autoconf, libtool. wget, go node@12, libsodium, czmq, jpeg-turbo, nanomsg, libgcrypt, gnutls, mobiledevice)
+    1. Copy the first {} block from `config.json.example` into `config.json
     1. Run `make clone`
     
 1. Configure WebDriverAgent to use your identity for signing
