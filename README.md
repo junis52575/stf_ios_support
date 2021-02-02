@@ -21,7 +21,10 @@
     1. Select `Apple Development`
 1. Clone the various needed repos ( includes WebDriverAgent )
 
+    1. install brew
+    1. install various needed packages(jq, graphicsmagick, zeromq, protobuf, yasm pkg-config, carthage, automake, autoconf, libtool. wget, go node@12, libsodium, czmq, jpeg-turbo, nanomsg, libgcrypt, gnutls, mobiledevice)
     1. Run `make clone`
+    
 1. Configure WebDriverAgent to use your identity for signing
 
     1. Open `repos/WebDriverAgent/WebDriverAgent.xcodeproj` in XCode
