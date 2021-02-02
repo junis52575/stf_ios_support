@@ -35,7 +35,8 @@
     1. Select the WebDriverAgentRunner target
     1. Go to the `Signing & Capabilities` tab
     1. Select your team under `Team`
-1. Run `./init.sh`
+    1. `sudo xcode-select -s /Applications/Xcode.app/Contents/Developer`
+    1. Run `./init.sh`
 
 ### Deploy server side:
 1. On your Linux machine
