@@ -13,7 +13,7 @@
     1. Click `+` under `Apple IDs` list
     1. Choose `Apple ID`
     1. Login to your account
-    1. Download a "Apple Development certificate" for your user
+1. Download a "Apple Development certificate" for your user
 
     1. Continue from previous step, right after logging into your Developer account in Xcode
     1. Select `Manage Certificates`
